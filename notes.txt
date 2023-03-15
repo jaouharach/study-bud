@@ -1,0 +1,2 @@
+- start project: django-admin startproject [studybud]
+- start server: python manage.py runserver

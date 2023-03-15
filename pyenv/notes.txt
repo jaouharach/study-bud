@@ -1,0 +1,6 @@
+- create a virtual environment: python3.7 -m virtualenv [env-name]
+- start a virtual environment:  source [env-path]/bin/activate 
+- exit a virtual environment: deactivate
+
+
+
